@@ -19,6 +19,6 @@ You can use my source code for your projects.
 <!DOCTYPE html>
 <html>
   <body>
-    <img src="Happy-coding2.gif" alt="Please Refresh">
+    <img src="Happy-Coding2.gif" alt="Please Refresh">
   </body>
   </html>
