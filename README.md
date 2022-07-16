@@ -4,13 +4,7 @@ This product-landing website is the final build. This is only a example I expect
 
 Here this is the example how the product-landing website looks like.
 
-https://kishan-ramesh.github.io/FREECODECAMP-PRODUCT-LANDING-PAGE./
-
-And this is the custom domain of this website.
-
-https://www.kishans-portfolio.ga/product-page/
-
-I used Bootstrap v5.1.1 to build this website.
+https://kishan-ramesh.github.io/FREECODECAMP-PRODUCT-LANDING-PAGE.
 
 You can use my source code for your projects.
 
