@@ -4,7 +4,9 @@ This product-landing website is the final build. This is only a example I expect
 
 Here this is the example how the product-landing website looks like.
 
-https://kishan-ramesh.github.io/FREECODECAMP-PRODUCT-LANDING-PAGE.
+https://kishan-ramesh.github.io/FREECODECAMP-PRODUCT-LANDING-PAGE./
+
+And bootstrap is used in this project.
 
 You can use my source code for your projects.
 
